@@ -1,4 +1,4 @@
-/**
+/***
 Write an implementation of an alphanumeric sort. In this case, we should sort numbers first,
 followed by lowercase letters, uppercase letters and then all other characters. The special case
 here is that if any two numerical characters are next to each other, then they will be treated as

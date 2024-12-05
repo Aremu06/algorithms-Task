@@ -19,7 +19,7 @@ Each category is processed independently, and the final result combines all sort
     - Open a terminal in the directory where the file is located.
     - Run the script with the following command, replacing "string_to_sort" with your input string:
            ``` node alphanumeric-sort.js "string_to_sort" ```
-3. Example :``` node alphanumeric-sort.js "aB3!2C1d" ```
+3. Example :```git  node alphanumeric-sort.js "aB3!2C1d" ```
 
     Output:   
     - Input: aB3!2C1d  
